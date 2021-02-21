@@ -1,4 +1,7 @@
+[![Build Status](https://dev.azure.com/gmihir426/DevOps-Space-Game/_apis/build/status/mihir-gautam.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/gmihir426/DevOps-Space-Game/_build/latest?definitionId=1&branchName=build-pipeline)
 
+https://dev.azure.com/gmihir426/DevOps-Space-Game/_apis/build/status/mihir-gautam.mslearn-tailspin-spacegame-web?branchName=build-pipeline
+--------------
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
